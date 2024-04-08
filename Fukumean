@@ -114,6 +114,6 @@ wait(4)
 
 -- Additional welcome notification crediting Jude and Ichigo
 Notification:Notify(
-    {Title = "Credits", Description = "Punk Hub was Created by Jude and Ichigo."},
+    {Title = "Credits", Description = "Punk Hub was Created by Jude and only jude."},
     {OutlineColor = generateRainbowColor(), Time = 345600, Type = "default"}
 )
